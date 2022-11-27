@@ -1,4 +1,4 @@
-
+[logo](https://github.com/nawaz990/Nawaz990/blob/main/git%20banner.gif)
 <h1 align="center">Hi 😎, I'm Nawaz</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
 
